@@ -1,2 +1,1 @@
-# Manchuris_ML
-# Manchuris_ML
+# Code for PRACH RAPID and Root Sequence Detection using CNN
